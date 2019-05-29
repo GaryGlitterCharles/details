@@ -1,0 +1,17 @@
+https://codeburst.io/app-development-ionic-or-nativescript-40b118bd8e51
+
+
+
+https://docs.nativescript.org/angular/start/introduction?_ga=2.82735378.561691611.1559109350-1979783265.1559109350
+
+https://docs.nativescript.org/angular/start/quick-setup
+
+https://scotch.io/tutorials/use-angular-and-nativescript-to-build-a-web-and-mobile-application
+
+https://medium.com/@nacojohn/convert-your-angular-project-to-mobile-app-using-cordova-f0384a7711a6
+
+https://blog.angular.io/apps-that-work-natively-on-the-web-and-mobile-9b26852495e7
+
+https://ionicframework.com/docs/cli/commands/cordova-build
+
+https://chrome.google.com/webstore/detail/inspect-devices/pjpobmgdbnbegggcdgbljfgplleejmkb/related?hl=en
